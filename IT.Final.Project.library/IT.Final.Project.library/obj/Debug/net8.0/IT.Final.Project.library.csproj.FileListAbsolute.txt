@@ -1,0 +1,14 @@
+D:\mine\C#\IT.Final.Project.library\IT.Final.Project.library\bin\Debug\net8.0\IT.Final.Project.library.exe
+D:\mine\C#\IT.Final.Project.library\IT.Final.Project.library\bin\Debug\net8.0\IT.Final.Project.library.deps.json
+D:\mine\C#\IT.Final.Project.library\IT.Final.Project.library\bin\Debug\net8.0\IT.Final.Project.library.runtimeconfig.json
+D:\mine\C#\IT.Final.Project.library\IT.Final.Project.library\bin\Debug\net8.0\IT.Final.Project.library.dll
+D:\mine\C#\IT.Final.Project.library\IT.Final.Project.library\bin\Debug\net8.0\IT.Final.Project.library.pdb
+D:\mine\C#\IT.Final.Project.library\IT.Final.Project.library\obj\Debug\net8.0\IT.Final.Project.library.GeneratedMSBuildEditorConfig.editorconfig
+D:\mine\C#\IT.Final.Project.library\IT.Final.Project.library\obj\Debug\net8.0\IT.Final.Project.library.AssemblyInfoInputs.cache
+D:\mine\C#\IT.Final.Project.library\IT.Final.Project.library\obj\Debug\net8.0\IT.Final.Project.library.AssemblyInfo.cs
+D:\mine\C#\IT.Final.Project.library\IT.Final.Project.library\obj\Debug\net8.0\IT.Final.Project.library.csproj.CoreCompileInputs.cache
+D:\mine\C#\IT.Final.Project.library\IT.Final.Project.library\obj\Debug\net8.0\IT.Final.Project.library.dll
+D:\mine\C#\IT.Final.Project.library\IT.Final.Project.library\obj\Debug\net8.0\refint\IT.Final.Project.library.dll
+D:\mine\C#\IT.Final.Project.library\IT.Final.Project.library\obj\Debug\net8.0\IT.Final.Project.library.pdb
+D:\mine\C#\IT.Final.Project.library\IT.Final.Project.library\obj\Debug\net8.0\IT.Final.Project.library.genruntimeconfig.cache
+D:\mine\C#\IT.Final.Project.library\IT.Final.Project.library\obj\Debug\net8.0\ref\IT.Final.Project.library.dll
